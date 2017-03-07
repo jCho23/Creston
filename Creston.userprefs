@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{3E19762C-5556-41F3-8FC4-C5F3D4806292}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Creston/Tests.cs">
+    <Files>
+      <File FileName="Creston/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="Creston/Tests.cs" Line="16" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Creston" expanded="True">
+            <Node name="Creston" expanded="True">
+              <Node name="Creston" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="ReplTest" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Creston PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
