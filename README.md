@@ -1,14 +1,14 @@
 # Creston
 Test Automation Scripts for Creston
 
-#Authors
+# Authors
 
 **June Cho**
 <br>
 *Microsoft Technical Solutions Professional*
 
 
-#License
+# License
 
 MIT License
 
